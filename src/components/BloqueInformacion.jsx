@@ -2,7 +2,7 @@ import React from 'react'
 
 const BloqueInformacion = () => {
   return (
-    <div>BloqueInformacion</div>
+    <div>Hola soy el bloque</div>
   )
 }
 
